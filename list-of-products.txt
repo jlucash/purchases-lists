@@ -6,3 +6,7 @@ salmon
 sea bass
 red caviar
 seeweeds 
+list for Target
+shampoo
+conditioner
+soap
