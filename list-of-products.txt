@@ -18,6 +18,7 @@ apple
 banana
 grapes
 oranges
+vegetables
 tomato
 cucumber
 eggplant
