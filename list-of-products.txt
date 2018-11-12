@@ -3,6 +3,8 @@ shampoo
 conditioner
 soap
 tooth past
+iron
+blanket
 list for Runch 99
 beef
 chicken liver
@@ -15,3 +17,4 @@ list for Sprouts
 apple 
 banana
 grapes
+oranges
